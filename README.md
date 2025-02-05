@@ -34,7 +34,7 @@ WhatsApp Chat Analyzer is an advanced Python-based tool that provides deep insig
 Install all required libraries with a single pip command:
 
 ```bash
-pip install zipfile os re emoji time logging nltk pickle datetime collections groq
+pip install emoji time logging nltk pickle collections groq
 ```
 
 ### GROQ API Setup
